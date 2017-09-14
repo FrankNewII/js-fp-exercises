@@ -1,0 +1,22 @@
+{
+  "name": "js-fp-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankNewII/js-fp-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankNewII/js-fp-exercises/issues"
+  },
+  "homepage": "https://github.com/FrankNewII/js-fp-exercises#readme",
+  "dependencies": {
+    "lodash-fp": "^0.10.4"
+  }
+}
